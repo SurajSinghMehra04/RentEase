@@ -6,9 +6,9 @@ import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "RentEase-3c464.firebaseapp.com",
-  projectId: "RentEase-3c464",
-  storageBucket: "RentEase-3c464.appspot.com",
+  authDomain: "cozeynest-3c464.firebaseapp.com",
+  projectId: "cozeynest-3c464",
+  storageBucket: "cozeynest-3c464.appspot.com",
   messagingSenderId: "312426466803",
   appId: "1:312426466803:web:cc3999f7b25c2ac46ad686"
 };
